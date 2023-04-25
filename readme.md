@@ -1,6 +1,6 @@
 # Album Art Generator
 
-![Preview](album-art-generator.jpg)
+![](Album-Art-Generator-1500px.jpg)
 
 I wanted to make something for making simple album art. Just an image with some text on it. Using Photoshop for making something like this is just too finnicky, in my opinion. To save the album art, simply take a screenshot of it.
 
