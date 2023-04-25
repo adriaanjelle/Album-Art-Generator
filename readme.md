@@ -13,5 +13,5 @@ There's another option called "Open image folder", which takes you to the folder
 ## Installation
 
 1. Download and install the latest version of [Rainmeter](https://www.rainmeter.net/).  
-2. Download the [skin](https://github.com/adriaanjelle/album-art-generator/releases/latest) and open the .rmskin file (it should have a green raindrop icon).  
+2. Download the [skin](https://github.com/adriaanjelle/Album-Art-Generator/releases/latest) and open the .rmskin file (it should have a green raindrop icon).  
 3. Done!
