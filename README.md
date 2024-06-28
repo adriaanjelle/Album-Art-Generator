@@ -1,6 +1,7 @@
 # Album Art Generator
 
-![](Album-Art-Generator-1500px.jpg)
+![](Album-Art-Generator-1500px.jpg)  
+![](https://img.shields.io/github/downloads/adriaanjelle/Album-Art-Generator/total?style=for-the-badge&labelColor=171d1a&color=171d1a) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Album-Art-Generator-983622396)
 
 I wanted to make something for making simple album art. Just an image with some text on it. Using Photoshop for making something like this is just too finnicky, in my opinion. To save the album art, simply take a screenshot of it.
 
